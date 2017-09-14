@@ -1,4 +1,5 @@
-<?php session_start(); include("include/header.php"); ?>
+<?php session_start(); include("include/header.php"); //Jay
+?>
 <div class="top_bg">
 <div class="wrap">
 	<div class="top">
